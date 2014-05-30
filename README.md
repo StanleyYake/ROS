@@ -10,8 +10,9 @@ ROS
  2. 建立工作空间
  http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
  3. 关于一些package的安装命令
- 第一种
 ---
+ 第一种
+
     $cd ~/ros_workspace
     $git clone git://repository/package_name
     $cd package_name
